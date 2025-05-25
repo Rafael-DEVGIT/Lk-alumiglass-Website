@@ -390,7 +390,7 @@ section h1 {
 
 .linha {
     position: absolute;
-    top: 302%; /* Posiciona a linha no meio da altura da div pai */
+    top: 300%; /* Posiciona a linha no meio da altura da div pai */
     left: 15px; /* Posiciona a linha no meio da largura da div pai */
     width: 1.5px;
     height: 350px;
