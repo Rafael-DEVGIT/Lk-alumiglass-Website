@@ -78,7 +78,7 @@ header {
   
 .btns-nav {
     transition: all 0.5s;
-    margin-left: 1130px;
+    margin-left: 1135px;
     padding: 10px 12px;
     background-color: rgb(10, 30, 94);
 
@@ -237,11 +237,11 @@ section h1 {
 
 .text-section1 {
     font-family: 'poppins';
-    width: 471PX;
-    height: 290px;
+    width: 481PX;
+    height: 300px;
     position: absolute;
     top: 47%;
-    left: 76%;
+    left: 74%;
     transform: translate(-50%, -50%);
     color: white;
     padding: 15px 32px;
@@ -390,7 +390,7 @@ section h1 {
 
 .linha {
     position: absolute;
-    top: 304%; /* Posiciona a linha no meio da altura da div pai */
+    top: 302%; /* Posiciona a linha no meio da altura da div pai */
     left: 15px; /* Posiciona a linha no meio da largura da div pai */
     width: 1.5px;
     height: 350px;
