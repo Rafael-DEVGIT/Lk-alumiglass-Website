@@ -78,7 +78,7 @@ header {
   
 .btns-nav {
     transition: all 0.5s;
-    margin-left: 1170px;
+    margin-left: 1110px;
     padding: 10px 12px;
     background-color: rgb(10, 30, 94);
 
@@ -390,7 +390,7 @@ section h1 {
 
 .linha {
     position: absolute;
-    top: 308%; /* Posiciona a linha no meio da altura da div pai */
+    top: 307%; /* Posiciona a linha no meio da altura da div pai */
     left: 15px; /* Posiciona a linha no meio da largura da div pai */
     width: 1.5px;
     height: 350px;
